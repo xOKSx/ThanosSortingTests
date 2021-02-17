@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 
-public class ThanosSortTest {
+public class ThanosSortTests {
 
     @Test
     public void simpleTest() {
