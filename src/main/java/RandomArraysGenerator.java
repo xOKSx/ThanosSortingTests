@@ -2,6 +2,11 @@ import java.util.OptionalInt;
 import java.util.OptionalLong;
 import java.util.Random;
 
+/**
+ * Класс, позволяющий получить массив из псевдослучайных значений Integer или Double.
+ * Требуется для генерации входных данных в нескольких тестах.
+ */
+
 public class RandomArraysGenerator {
 
     public static int[] getRandomArrayInts(int size) {
